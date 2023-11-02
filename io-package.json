@@ -1,8 +1,21 @@
 {
 	"common": {
 		"name": "plenticore",
-		"version": "2.3.1",
+		"version": "2.3.991",
 		"news": {
+			"2.4.0": {
+				"en": "TODO [PastCoder]",
+				"de": "TODO [PastCoder]",
+				"ru": "TODO [PastCoder]",
+				"pt": "TODO [PastCoder]",
+				"nl": "TODO [PastCoder]",
+				"fr": "TODO [PastCoder]",
+				"it": "TODO [PastCoder]",
+				"es": "TODO [PastCoder]",
+				"pl": "TODO [PastCoder]",
+				"uk": "TODO [PastCoder]",
+				"zh-cn": "TODO [PastCoder]"
+			},
 			"2.3.1": {
 				"en": "Added further option to control battery management [PastCoder]",
 				"de": "Weitere Option zur Steuerung des Batteriemanagements [PastCoder]",
